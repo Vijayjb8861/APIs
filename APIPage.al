@@ -59,7 +59,7 @@ page 50139 APIStudentPage
                         http_responseMsg.Content.ReadAs(response);
 
                         Message(response);
-                        Message('hello');
+                        Message('hello hi');
 
                         ReadFromResponse(response);
 
